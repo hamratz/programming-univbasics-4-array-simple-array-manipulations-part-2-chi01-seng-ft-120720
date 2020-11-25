@@ -5,3 +5,5 @@ end
 def using_insert(array, element)
   using_insert.insert[4, element]
 end
+
+def using_uniq
